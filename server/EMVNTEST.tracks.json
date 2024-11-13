@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67337cba127e2ebf408a8ec1"
+  },
+  "title": "bên trái",
+  "artist": "Namyeye",
+  "genre": "ChillChill",
+  "releaseYear": 2024,
+  "duration": 5,
+  "audioFile": "http://localhost:3001/uploads/audio/1731427514698-878888462.mp3",
+  "createdAt": {
+    "$date": "2024-11-12T16:05:14.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:05:14.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337cd9127e2ebf408a8ec5"
+  },
+  "title": "Blue",
+  "artist": "Namyeye",
+  "genre": "ChillChill",
+  "releaseYear": 2024,
+  "duration": 5,
+  "audioFile": "http://localhost:3001/uploads/audio/1731427545074-126772438.mp3",
+  "createdAt": {
+    "$date": "2024-11-12T16:05:45.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:05:45.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67337cd9127e2ebf408a8ec7"
+  },
+  "title": "Bluesssss",
+  "artist": "Namyeye",
+  "genre": "ChillChill",
+  "releaseYear": 2024,
+  "duration": 5,
+  "audioFile": "http://localhost:3001/uploads/audio/1731427545086-827992448.mp3",
+  "createdAt": {
+    "$date": "2024-11-12T16:05:45.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T16:10:51.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733fd786134a7d2d934aee3"
+  },
+  "title": "bên trái nam",
+  "artist": "Namyeye",
+  "genre": "ChillChill",
+  "releaseYear": 2024,
+  "duration": 5,
+  "audioFile": "http://localhost:3001/uploads/audio/1731460472884-61815975.mp3",
+  "createdAt": {
+    "$date": "2024-11-13T01:14:32.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T01:14:32.934Z"
+  },
+  "__v": 0
+}]
