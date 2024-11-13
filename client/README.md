@@ -1,6 +1,4 @@
-Dưới đây là bản dịch README.md cho phần **Frontend** của dự án API Quản Lý Thư Viện Âm Nhạc:
 
----
 
 # Music Library Frontend
 
@@ -9,6 +7,10 @@ Dưới đây là bản dịch README.md cho phần **Frontend** của dự án 
 Đây là giao diện người dùng frontend cho **API Quản Lý Thư Viện Âm Nhạc**, được xây dựng bằng React và kết nối với API phía backend để quản lý các bản nhạc và danh sách phát. Giao diện cho phép người dùng tìm kiếm, lọc, sắp xếp và phân trang các bản nhạc và danh sách phát, cũng như xem chi tiết về bản nhạc và các bản nhạc trong danh sách phát.
 
 ## Tính Năng
+## Hướng dẫn Test ting năng
+- phần NavBar search dùng dể search tên bài hát với các kí tự gần match với tên bài hát
+- Library là phần quản lý Playlist --> Có thêm,sủa ,xóa cho từng playlist
+- sử dụng nút Seting để đi dến trang dashboard nơi chứa list Track(quản lý các bài hát )--> có thêm,sửa,xóa cho từng file 
 
 - **Hiển Thị Bản Nhạc**:
 
@@ -23,9 +25,6 @@ Dưới đây là bản dịch README.md cho phần **Frontend** của dự án 
   - Xem chi tiết danh sách phát và các bản nhạc trong danh sách phát.
   - Thêm bản nhạc vào danh sách phát.
 
-- **Phân Trang và Sắp Xếp**:
-  - Phân trang để giới hạn và điều hướng qua các bản nhạc và danh sách phát.
-  - Sắp xếp các bản nhạc và danh sách phát theo các thuộc tính như tiêu đề hoặc ngày tạo.
 
 ## Cài Đặt
 
