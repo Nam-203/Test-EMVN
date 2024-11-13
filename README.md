@@ -1,18 +1,21 @@
 
 ## Yêu cầu
 
-Trước khi bắt đầu, bạn cần cài đặt các yêu cầu sau:
+Trước khi bắt đầu, bạn cần cài đặt và đọc các yêu cầu sau:
 
 ### Phía server:
 - **Node.js** (phiên bản >= 14.x)
 - **MongoDB** (phiên bản >= 7.0)
+- **Đọc kĩ file README.MD trong thư mục server**
 
 ### Phía client:
 - **Node.js** (phiên bản >= 14.x)
 - **React** (phiên bản >= 17.x)
+-  **Đọc kĩ file README.MD trong thư mục client**
+
 
 ## Cài đặt và chạy
-
+## nếu chưa đủ thông tin và lỗi cài đặt vui lòng đọc file ReadMe.md trong mỗi thư mục
 ### 1. Cài đặt và chạy Server API
 
 #### Bước 1: Cài đặt phụ thuộc
